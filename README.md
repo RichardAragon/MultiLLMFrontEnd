@@ -1,4 +1,4 @@
-# Multi LLM FrontEnd
+# Multi LLM Front End
 Provides a single use front end for interacting with multiple LLM models on the backend via API
 
 # LLM API Client App
